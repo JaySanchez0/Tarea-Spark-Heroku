@@ -1,0 +1,7 @@
+com.appstatistics.collection
+com.appstatistics.collection.exceptions
+com.appstatistics.data
+com.appstatistics.operation
+com.appstatistics.operation.exception
+com.webstatistics
+com.webstatistics.response
